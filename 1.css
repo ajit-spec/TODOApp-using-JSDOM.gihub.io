@@ -1,0 +1,19 @@
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+
+body {
+    background-color: darkviolet;
+}
+
+.fas {
+    cursor: pointer;
+}
+
+input[type = "text"], input[type = "text"]:focus {
+    border: none;
+}
+.hide{
+    display: none !important;
+}
